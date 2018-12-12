@@ -1,8 +1,4 @@
-/*
- * $HeadURL: $
- * $Id: $
- * Copyright (c) 2018 by Ericsson, all rights reserved.
- */
+
 
 package com.ericsson.ddi.dispatcher.connector.coap.security;
 
