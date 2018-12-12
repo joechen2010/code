@@ -1,6 +1,6 @@
 
 
-package com.ericsson.ddi.dispatcher.connector.coap.security;
+package coap.security;
 
 import java.io.IOException;
 import java.net.URI;
@@ -21,7 +21,7 @@ import org.eclipse.californium.core.network.config.NetworkConfig;
 import org.eclipse.californium.core.server.resources.CoapExchange;
 import org.eclipse.californium.elements.Connector;
 
-import com.ericsson.ddi.dispatcher.connector.coap.connector.DefaultConnectorFactory;
+import com.DefaultConnectorFactory;
 
 /**
  *
